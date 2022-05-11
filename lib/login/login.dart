@@ -25,6 +25,12 @@ class LoginScreen extends StatelessWidget {
                 color: Color.fromARGB(255, 28, 153, 255),
               ),
             ),
+            LoginButton(
+              text: 'Sign in with Google',
+              icon: FontAwesomeIcons.google,
+              color: Colors.green,
+              loginMethod: AuthService().googleLogin,
+            ),
           ],
         ),
       ),
