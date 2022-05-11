@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96662231720",
+    "project_id": "testapp-ja",
+    "storage_bucket": "testapp-ja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96662231720:android:ed9e97a1f8772e5d63409d",
+        "android_client_info": {
+          "package_name": "io.fireship.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96662231720-eergene6ru8cpdhhu8t3kib2lvcg8o6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fireship.testapp",
+            "certificate_hash": "70e2f9bc46cac59107024f903f6781c32f006c07"
+          }
+        },
+        {
+          "client_id": "96662231720-qse2i1c6prgcf18bbfav8os5ed3jpk50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCro9M22eJdk0XMVqDcaImg_S0nvAVno7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96662231720-qse2i1c6prgcf18bbfav8os5ed3jpk50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
